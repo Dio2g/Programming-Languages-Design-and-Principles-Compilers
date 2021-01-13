@@ -1,0 +1,10 @@
+class Program {
+    int my_method (int a, int b){
+        return a + b;
+    }
+
+    void main(){
+        my_method(true);
+
+    }
+}

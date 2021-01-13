@@ -1,0 +1,9 @@
+class Program {
+    int a;
+    boolean b[2];
+    void mymethod(int a, boolean b){
+        int c;
+        boolean d;
+    }
+
+}

@@ -1,0 +1,5 @@
+class Program{
+    void mymethod() {
+        a = b + 1;
+    }
+}

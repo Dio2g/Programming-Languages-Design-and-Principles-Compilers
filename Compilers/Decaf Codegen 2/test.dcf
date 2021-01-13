@@ -1,0 +1,8 @@
+class Program{
+	int foo(int a, int b, int c){
+		return b;
+	}
+	void main(){
+		return foo(3, 99, 4);
+	}
+}

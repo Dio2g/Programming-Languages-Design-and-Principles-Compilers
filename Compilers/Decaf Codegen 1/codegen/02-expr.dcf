@@ -1,0 +1,19 @@
+class Program
+{
+    void main()
+    {
+        int a, b, c;
+        int d, e;
+
+        a = 1;
+        b = 2;
+        c = 3;
+
+        d = (a + b);
+        e = (c * 3);
+
+        e = d * e - 1;
+		
+        callout("printf", "Hello %d %d\n", d, e);
+    }
+}
